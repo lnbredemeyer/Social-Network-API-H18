@@ -26,6 +26,4 @@ AS A social media startup, I want an API for my social network that uses a NoSQL
 *
 
 ## Author
-```
 Created by Leah Bredemeyer - I am a photographer, graphic designer, Director of Online Product and Website Management, and currently learning about coding in the UofA Full Stack Bootcamp. You can check out my GitHub projects here: https://github.com/lnbredemeyer
-```
