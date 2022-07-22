@@ -1,14 +1,15 @@
 {
-  "name": "mern-server",
-  "version": "1.0.0",
-  "description": "",
+  "name": "Social Network API H18",
+  "version": "1.0.1",
+  "description": "NoSQL Homework",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "watch": "nodemon"
+    "watch": "nodemon",
+    "seed": "node utils/seed"
   },
   "keywords": [],
-  "author": "",
+  "author": "Leah",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
