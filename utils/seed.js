@@ -27,7 +27,6 @@ connection.once('open', async () => {
       username,
       email,
     });
-  }
 
   // Loop 20 times -- add thoughts to the thoughts array
   for (let i = 0; i < 20; i++) {
@@ -38,6 +37,7 @@ connection.once('open', async () => {
       thoughtText,
       username,
     });
+  }  
   }  
 
   // Add users to the collection and await the results
