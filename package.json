@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "Leah",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^6.0.13"

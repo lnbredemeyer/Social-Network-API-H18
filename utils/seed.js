@@ -36,7 +36,6 @@ connection.once('open', async () => {
 
     thoughts.push({
       thoughtText,
-      username,
     });
   }  
 
@@ -48,6 +47,6 @@ connection.once('open', async () => {
 
   // Log out the seed data to indicate what should appear in the database
   console.table(users);
-  console.info('Seeding complete! 🌱');
+  console.info('Seed complete! 🌱');
   process.exit(0);
 });
