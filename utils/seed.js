@@ -36,7 +36,6 @@ connection.once('open', async () => {
 
     thoughts.push({
       thoughtText,
-      username,
     });
   }  
 
