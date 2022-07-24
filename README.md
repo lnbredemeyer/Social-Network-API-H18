@@ -20,7 +20,7 @@ AS A social media startup, I want an API for my social network that uses a NoSQL
 * THEN I am able to successfully create and delete reactions to thoughts and add and remove friends
 
 ## Screenshots
-![alt tag]( "screenshot")
+![alt tag](https://user-images.githubusercontent.com/99215212/180628505-f1c6c1b6-2bba-4e75-ab54-4a54d024a03a.png "screenshot")
 
 ## Links
 *
