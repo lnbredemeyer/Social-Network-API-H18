@@ -1,5 +1,5 @@
 {
-  "name": "Social Network API H18",
+  "name": "social",
   "version": "1.0.1",
   "description": "NoSQL Homework",
   "main": "server.js",
