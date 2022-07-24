@@ -23,7 +23,8 @@ AS A social media startup, I want an API for my social network that uses a NoSQL
 ![alt tag](https://user-images.githubusercontent.com/99215212/180628505-f1c6c1b6-2bba-4e75-ab54-4a54d024a03a.png "screenshot")
 
 ## Links
-*
+* https://github.com/lnbredemeyer/Social-Network-API-H18
+* https://youtu.be/vEd1bFphH8U
 
 ## Author
 Created by Leah Bredemeyer - I am a photographer, graphic designer, Director of Online Product and Website Management, and currently learning about coding in the UofA Full Stack Bootcamp. You can check out my GitHub projects here: https://github.com/lnbredemeyer
